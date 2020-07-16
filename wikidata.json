@@ -1,12 +1,377 @@
 [
   {
     "item": {
+      "value": "Q3160900",
+      "label": "James Allen"
+    },
+    "replacedBy": {
+      "value": "Q5393444",
+      "label": "Ernest Lee"
+    },
+    "statement": "Q3160900$9C048802-4E36-4265-8D1A-D2B4D4C962CB",
+    "ordinal": "1",
+    "start": "1919-11-24T00:00:00Z",
+    "end": "1920-04-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5393444",
+      "label": "Ernest Lee"
+    },
+    "replaces": {
+      "value": "Q3160900",
+      "label": "James Allen"
+    },
+    "replacedBy": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "statement": "Q5393444$725B5A46-89E9-46D5-9881-8E8255748112",
+    "ordinal": "2",
+    "start": "1920-05-17T00:00:00Z",
+    "end": "1923-01-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "replaces": {
+      "value": "Q5393444",
+      "label": "Ernest Lee"
+    },
+    "replacedBy": {
+      "value": "Q8016191",
+      "label": "William Nosworthy"
+    },
+    "statement": "Q742508$AEDEC607-2833-4303-A382-2B8343C75589",
+    "ordinal": "3",
+    "start": "1923-06-07T00:00:00Z",
+    "end": "1926-01-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q8016191",
+      "label": "William Nosworthy"
+    },
+    "replaces": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "replacedBy": {
+      "value": "Q731342",
+      "label": "Joseph Gordon Coates"
+    },
+    "statement": "Q8016191$18E74E83-A086-474B-B725-F8E5D5C03C3F",
+    "ordinal": "4",
+    "start": "1926-05-24T00:00:00Z",
+    "end": "1928-08-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q731342",
+      "label": "Joseph Gordon Coates"
+    },
+    "replaces": {
+      "value": "Q8016191",
+      "label": "William Nosworthy"
+    },
+    "replacedBy": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "statement": "Q731342$1B59CBAB-C17C-4786-B916-EFB5145DEFBB",
+    "ordinal": "5",
+    "start": "1928-08-25T00:00:00Z",
+    "end": "1928-12-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replaces": {
+      "value": "Q731342",
+      "label": "Joseph Gordon Coates"
+    },
+    "replacedBy": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "statement": "Q1371024$E0B69EFA-EA17-4D55-9F58-B364F20005E7",
+    "ordinal": "6",
+    "start": "1928-12-10T00:00:00Z",
+    "end": "1930-05-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "replaces": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replacedBy": {
+      "value": "Q1371015",
+      "label": "Michael Joseph Savage"
+    },
+    "statement": "Q775773$7011B579-0575-4BD1-8C90-37ADBC1D11E8",
+    "ordinal": "7",
+    "start": "1930-05-28T00:00:00Z",
+    "end": "1935-12-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1371015",
+      "label": "Michael Joseph Savage"
+    },
+    "replaces": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "replacedBy": {
+      "value": "Q5487850",
+      "label": "Frank Langstone"
+    },
+    "statement": "Q1371015$D25BEF2B-38C8-46A8-9FD1-01A3C4437C16",
+    "ordinal": "8",
+    "start": "1935-12-06T00:00:00Z",
+    "end": "1940-03-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5487850",
+      "label": "Frank Langstone"
+    },
+    "replaces": {
+      "value": "Q1371015",
+      "label": "Michael Joseph Savage"
+    },
+    "replacedBy": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "statement": "Q5487850$CBF95F54-FB4A-47D0-B382-FA502C8F693D",
+    "ordinal": "9",
+    "start": "1940-04-01T00:00:00Z",
+    "end": "1942-12-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "replaces": {
+      "value": "Q5487850",
+      "label": "Frank Langstone"
+    },
+    "replacedBy": {
+      "value": "Q1452846",
+      "label": "Frederick Doidge"
+    },
+    "statement": "Q1400226$2C20B1F9-B05A-48BB-B7DD-BDA9B5F6A012",
+    "ordinal": "10",
+    "start": "1943-07-07T00:00:00Z",
+    "end": "1949-12-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1452846",
+      "label": "Frederick Doidge"
+    },
+    "replaces": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "replacedBy": {
+      "value": "Q958022",
+      "label": "Thomas Clifton Webb"
+    },
+    "statement": "Q1452846$38547089-1D2C-4122-80B3-D1B9747A1D8D",
+    "ordinal": "11",
+    "start": "1949-12-13T00:00:00Z",
+    "end": "1951-09-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q958022",
+      "label": "Thomas Clifton Webb"
+    },
+    "replaces": {
+      "value": "Q1452846",
+      "label": "Frederick Doidge"
+    },
+    "replacedBy": {
+      "value": "Q984322",
+      "label": "Thomas Lachlan MacDonald"
+    },
+    "statement": "Q958022$42E723EE-9E87-4E69-94CB-1E2A5F28576F",
+    "ordinal": "12",
+    "start": "1951-09-19T00:00:00Z",
+    "end": "1954-11-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q984322",
+      "label": "Thomas Lachlan MacDonald"
+    },
+    "replaces": {
+      "value": "Q958022",
+      "label": "Thomas Clifton Webb"
+    },
+    "replacedBy": {
+      "value": "Q721770",
+      "label": "Walter Nash"
+    },
+    "statement": "Q984322$598F230E-906C-41EA-BF86-A69F2C8269C3",
+    "ordinal": "13",
+    "start": "1954-11-26T00:00:00Z",
+    "end": "1957-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q721770",
+      "label": "Walter Nash"
+    },
+    "replaces": {
+      "value": "Q984322",
+      "label": "Thomas Lachlan MacDonald"
+    },
+    "replacedBy": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "statement": "Q721770$D1B5BDDD-008B-4F7A-AD46-050857E8F857",
+    "ordinal": "14",
+    "start": "1957-12-12T00:00:00Z",
+    "end": "1960-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replaces": {
+      "value": "Q721770",
+      "label": "Walter Nash"
+    },
+    "replacedBy": {
+      "value": "Q1237120",
+      "label": "Norman Kirk"
+    },
+    "statement": "Q637012$EF0DF0AE-0292-4BC9-8F4C-DBA79ACA8AAB",
+    "ordinal": "15",
+    "start": "1960-12-12T00:00:00Z",
+    "end": "1972-12-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1237120",
+      "label": "Norman Kirk"
+    },
+    "replaces": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replacedBy": {
+      "value": "Q862430",
+      "label": "Bill Rowling"
+    },
+    "statement": "Q1237120$55548FDB-92EE-43F4-9289-0AEF425F9039",
+    "ordinal": "16",
+    "start": "1972-12-08T00:00:00Z",
+    "end": "1974-08-31T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q862430",
+      "label": "Bill Rowling"
+    },
+    "replaces": {
+      "value": "Q1237120",
+      "label": "Norman Kirk"
+    },
+    "replacedBy": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "statement": "Q862430$46EAC3BB-EDA8-492A-B88E-41C7D1D284BF",
+    "ordinal": "17",
+    "start": "1974-09-06T00:00:00Z",
+    "end": "1975-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "replaces": {
+      "value": "Q862430",
+      "label": "Bill Rowling"
+    },
+    "replacedBy": {
+      "value": "Q2549675",
+      "label": "Warren Cooper"
+    },
+    "statement": "Q461383$7C4CB226-0E50-45DB-870B-319CDEE0922D",
+    "ordinal": "18",
+    "start": "1975-12-12T00:00:00Z",
+    "end": "1981-12-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2549675",
+      "label": "Warren Cooper"
+    },
+    "replaces": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "replacedBy": {
       "value": "Q367589",
       "label": "David Lange"
     },
+    "statement": "Q2549675$464BDDE0-C05B-4784-BA62-CD1FF1EA5EEE",
+    "ordinal": "19",
+    "start": "1981-12-11T00:00:00Z",
+    "end": "1984-07-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q367589",
+      "label": "David Lange"
+    },
+    "replaces": {
+      "value": "Q2549675",
+      "label": "Warren Cooper"
+    },
+    "replacedBy": {
+      "value": "Q2176939",
+      "label": "Russell Marshall"
+    },
     "statement": "q367589$ad6f4b1f-4628-72d1-baeb-1950b160768d",
+    "ordinal": "20",
     "start": "1984-07-26T00:00:00Z",
     "end": "1987-08-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2176939",
+      "label": "Russell Marshall"
+    },
+    "replaces": {
+      "value": "Q367589",
+      "label": "David Lange"
+    },
+    "replacedBy": {
+      "value": "Q558647",
+      "label": "Mike Moore"
+    },
+    "statement": "Q2176939$A48C57F0-1730-4008-9846-840F67DB39BB",
+    "ordinal": "21",
+    "start": "1987-08-24T00:00:00Z",
+    "end": "1990-02-09T00:00:00Z"
   },
   {
     "item": {
@@ -22,6 +387,7 @@
       "label": "Don McKinnon"
     },
     "statement": "Q558647$BAEC5C4C-387F-4BAA-844D-0259FFA08E70",
+    "ordinal": "22",
     "start": "1990-02-09T00:00:00Z",
     "end": "1990-11-02T00:00:00Z"
   },
@@ -78,5 +444,70 @@
     "ordinal": "26",
     "start": "2005-10-19T00:00:00Z",
     "end": "2008-08-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replaces": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "replacedBy": {
+      "value": "Q58291",
+      "label": "Murray McCully"
+    },
+    "statement": "Q180383$95FF2C66-34EA-4770-A56C-1414F6C3BCAB",
+    "start": "2008-08-29T00:00:00Z",
+    "end": "2008-11-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q58291",
+      "label": "Murray McCully"
+    },
+    "replaces": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replacedBy": {
+      "value": "Q4352603",
+      "label": "Gerry Brownlee"
+    },
+    "statement": "Q58291$EBF77E65-D93F-4F5F-9BC2-ED687AFC0896",
+    "ordinal": "26",
+    "start": "2008-11-19T00:00:00Z",
+    "end": "2017-05-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4352603",
+      "label": "Gerry Brownlee"
+    },
+    "replaces": {
+      "value": "Q58291",
+      "label": "Murray McCully"
+    },
+    "replacedBy": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "statement": "Q4352603$32C4784D-1D16-4C58-89BD-A2DB02061D2B",
+    "ordinal": "27",
+    "start": "2017-05-02T00:00:00Z",
+    "end": "2017-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "replaces": {
+      "value": "Q4352603",
+      "label": "Gerry Brownlee"
+    },
+    "statement": "Q1396178$1ABB18B4-1078-40CB-B3F2-EEF7BBFBE956",
+    "start": "2017-10-26T00:00:00Z"
   }
 ]
