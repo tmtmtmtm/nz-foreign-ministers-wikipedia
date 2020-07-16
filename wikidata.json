@@ -1,0 +1,82 @@
+[
+  {
+    "item": {
+      "value": "Q367589",
+      "label": "David Lange"
+    },
+    "statement": "q367589$ad6f4b1f-4628-72d1-baeb-1950b160768d",
+    "start": "1984-07-26T00:00:00Z",
+    "end": "1987-08-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q558647",
+      "label": "Mike Moore"
+    },
+    "replaces": {
+      "value": "Q2176939",
+      "label": "Russell Marshall"
+    },
+    "replacedBy": {
+      "value": "Q599938",
+      "label": "Don McKinnon"
+    },
+    "statement": "Q558647$BAEC5C4C-387F-4BAA-844D-0259FFA08E70",
+    "start": "1990-02-09T00:00:00Z",
+    "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q599938",
+      "label": "Don McKinnon"
+    },
+    "replaces": {
+      "value": "Q558647",
+      "label": "Mike Moore"
+    },
+    "replacedBy": {
+      "value": "Q597909",
+      "label": "Phil Goff"
+    },
+    "statement": "Q599938$EE4E1EE9-5AC1-420A-9DF8-C936C6A9D259",
+    "ordinal": "24",
+    "start": "1990-11-02T00:00:00Z",
+    "end": "1999-12-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q597909",
+      "label": "Phil Goff"
+    },
+    "replaces": {
+      "value": "Q599938",
+      "label": "Don McKinnon"
+    },
+    "replacedBy": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "statement": "Q597909$DD45BBF6-BA42-436F-B584-8BC06288D957",
+    "ordinal": "25",
+    "start": "1999-12-05T00:00:00Z",
+    "end": "2005-10-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "replaces": {
+      "value": "Q597909",
+      "label": "Phil Goff"
+    },
+    "replacedBy": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "statement": "Q1396178$082EE39A-574F-4AA7-857C-C7784D2A9A44",
+    "ordinal": "26",
+    "start": "2005-10-19T00:00:00Z",
+    "end": "2008-08-29T00:00:00Z"
+  }
+]
