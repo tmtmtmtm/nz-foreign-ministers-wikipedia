@@ -20,7 +20,9 @@ class ListPage < Scraped::HTML
   private
 
   def list
-    noko.xpath('//table[.//th[contains(., "Term of office")]]').first
+    noko.xpath('.//table[.//th[contains(
+      translate(., "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"),
+    "term of office")]]').first
   end
 end
 
@@ -79,11 +81,13 @@ class HolderItem < Scraped::HTML
 
   def table_headings
     # don't cache, as there may be multiple tables with different layouts
-    noko.xpath('parent::table//tr[.//th[contains(., "Term of office")]]//th').map(&:text).map(&:tidy)
+    noko.xpath('parent::table//tr[.//th][1]//th').map(&:text).map(&:tidy)
   end
 
   def columns_headed(str)
-    table_headings.each_with_index.select { |heading, index| heading.include?(str) }.map(&:last)
+    table_headings.each_with_index.select do |heading, index|
+      heading.downcase.include?(str.downcase)
+    end.map(&:last)
   end
 
   def name_cell
@@ -95,11 +99,11 @@ class HolderItem < Scraped::HTML
   end
 
   def start_date_cell
-    tds[columns_headed('Term of office').first]
+    tds[columns_headed('Term of Office').first]
   end
 
   def end_date_cell
-    tds[columns_headed('Term of office').last]
+    tds[columns_headed('Term of Office').last]
   end
 end
 
